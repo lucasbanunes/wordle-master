@@ -1,0 +1,1 @@
+This data was obtained from the souce code at the wordle page
